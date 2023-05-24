@@ -123,5 +123,5 @@ Now, the string upon concatenation will give `${pwd}/a,b,c,d,/../flag.txt` (now 
 The flag is:
 
 ```
-csictf{5h0uld_5tr1ng1fy_th3_p4r4ms}
+sarbctf{5h0uld_5tr1ng1fy_th3_p4r4ms}
 ```
