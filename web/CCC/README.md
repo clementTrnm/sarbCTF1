@@ -90,5 +90,5 @@ rot13 decrypt this flag to get the real flag.
 The flag is:
 
 ```
-csictf{1n_th3_3nd_1t_d0esn't_3v3n_m4tt3r}
+sarbctf{1n_th3_3nd_1t_d0esn't_3v3n_m4tt3r}
 ```
