@@ -24,5 +24,5 @@ Checkout the flag in `/static/style.css`.
 The flag is:
 
 ```
-sarbctf{w3lc0me_t0_sarbctf
+sarbctf{w3lc0me_t0_sarbctf}
 ```
