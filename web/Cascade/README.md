@@ -13,7 +13,7 @@ Flag in CSS.
 ## Sources
 
 ```
-Welcome to csictf.
+Welcome to sarbctf.
 ```
 
 ## Exploit
@@ -24,5 +24,5 @@ Checkout the flag in `/static/style.css`.
 The flag is:
 
 ```
-csictf{w3lc0me_t0_csictf}
+sarbctf{w3lc0me_t0_sarbctf
 ```
